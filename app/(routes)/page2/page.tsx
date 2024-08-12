@@ -7,3 +7,4 @@ const page2 = () => {
         </div>
     );
 }
+export default page2
